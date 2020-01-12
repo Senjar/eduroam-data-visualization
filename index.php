@@ -5,7 +5,6 @@
 		<meta charset="utf-8">
 		<meta name="description" content="Eduroam charts">
 		<link rel="stylesheet" type="text/css" href="css/my-style2.css"/>
-		<link rel="icon" type="image/ico" href="img/favicon.ico">
 		<title>Eduroam Charts - Home</title>
 	</head>
 	

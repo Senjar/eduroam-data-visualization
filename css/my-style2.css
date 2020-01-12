@@ -19,11 +19,11 @@ body{
 /*Page Title*/
 .page-header {
 	color: white;
-	font-size: 300%;
+	font-size: 200%;
 	font-weight: bold;
 	text-align: center;
 	margin-bottom: 40px;
-	padding: 20px;
+	padding: 10px;
 	background-color: #456;
 }
 
@@ -36,12 +36,17 @@ body{
 
 
 
-#container {
-	min-height: 90%;
-	max-height: 90%;
+.container {
+	min-height: 95%;
+	max-height: 95%;
     min-width: 480px; 
     max-width: 90%; 
-    margin: 0 auto; 
+	margin: 0 auto; 
+
+	/*TODO REMOVE*/
+	border: 10px rgb(255, 51, 0) solid;
+	border-radius: 10px;
+
 }
 
 
