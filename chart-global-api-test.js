@@ -18,6 +18,6 @@ const generate = (data) => {
         </div>
     `
 
-    const pokemonDiv = document.querySelector('.container')
+    const pokemonDiv = document.querySelector('#container')
     pokemonDiv.innerHTML = html
 }

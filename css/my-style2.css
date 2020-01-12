@@ -36,7 +36,7 @@ body{
 
 
 
-.container {
+#container {
 	min-height: 95%;
 	max-height: 95%;
     min-width: 480px; 

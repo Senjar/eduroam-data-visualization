@@ -23,7 +23,7 @@
 		<script src="https://code.highcharts.com/mapdata/custom/europe.js"></script>
 		<script src="https://code.highcharts.com/mapdata/custom/world-lowres.js"></script>
 		
-		<div class="container">
+		<div id="container">
 			<!-- <script src="chart-global-api-test.js"></script> -->
 		
 		
