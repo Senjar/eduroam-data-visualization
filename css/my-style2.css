@@ -43,9 +43,6 @@ body{
     max-width: 90%; 
 	margin: 0 auto; 
 
-	/*TODO REMOVE*/
-	border: 10px rgb(255, 51, 0) solid;
-	border-radius: 10px;
 
 }
 
