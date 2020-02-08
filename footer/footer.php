@@ -4,6 +4,6 @@
 		Version 0.1
 	</div>
 	<div class="copyright">
-		&copy; Copyright 2019-2020 Nikigero
+		<!--&copy; Copyright--> 2019-2020 Nikigero
 	</div>
 </footer>
