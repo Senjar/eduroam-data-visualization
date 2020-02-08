@@ -34,9 +34,11 @@
 		
 		<div id="container">
 		
-			<script src="selector.js"></script>
 			<?php include('data.php') ?>
 			<script src="data.js"></script>
+			<script src="selector.js"></script>
+			<!--Initialize with Global map-->
+			<script src="chart-global.js"></script>
 
 		</div>
 	

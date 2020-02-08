@@ -1,5 +1,6 @@
 
 var data = [
+	['gr', 200],// GREECE (SET TO 0 AFTER CONNECTING REAL DATA)
     ['fo', 0],
     ['um', 0],
     ['us', 0],
@@ -19,7 +20,6 @@ var data = [
     ['mv', 0],
     ['sp', 0],
     ['gb', 0],
-    ['gr', 200],// GREECE (SET TO 0 AFTER CONNECTING REAL DATA)
     ['as', 0],
     ['dk', 0],
     ['gl', 0],
